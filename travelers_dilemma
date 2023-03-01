@@ -1,0 +1,180 @@
+# Created by Octave 6.2.0, Tue Feb 07 17:16:18 2023 +0330 <reza@Rezas-MacBook-Pro.local>
+# name: ans
+# type: scalar
+9
+
+
+# name: best_responses
+# type: cell
+# rows: 1
+# columns: 10
+# name: <cell-element>
+# type: scalar
+1
+
+
+
+# name: <cell-element>
+# type: scalar
+1
+
+
+
+# name: <cell-element>
+# type: scalar
+2
+
+
+
+# name: <cell-element>
+# type: scalar
+3
+
+
+
+# name: <cell-element>
+# type: scalar
+4
+
+
+
+# name: <cell-element>
+# type: scalar
+5
+
+
+
+# name: <cell-element>
+# type: scalar
+6
+
+
+
+# name: <cell-element>
+# type: scalar
+7
+
+
+
+# name: <cell-element>
+# type: scalar
+8
+
+
+
+# name: <cell-element>
+# type: scalar
+9
+
+
+
+
+
+# name: choices
+# type: cell
+# rows: 1
+# columns: 10
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+2
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+8
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+9
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+10
+
+
+
+
+
+# name: game_name
+# type: sq_string
+# elements: 1
+# length: 17
+travelers_dillema
+
+
+# name: i
+# type: scalar
+10
+
+
+# name: num_choices
+# type: scalar
+10
+
+
+# name: num_players
+# type: scalar
+2
+
+

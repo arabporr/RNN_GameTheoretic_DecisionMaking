@@ -1,0 +1,82 @@
+# Created by Octave 6.2.0, Sun Feb 05 17:05:17 2023 +0330 <reza@Rezas-MacBook-Pro.local>
+# name: ans
+# type: scalar
+1
+
+
+# name: best_responses
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: scalar
+2
+
+
+
+# name: <cell-element>
+# type: scalar
+3
+
+
+
+# name: <cell-element>
+# type: scalar
+1
+
+
+
+
+
+# name: choices
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+sang
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+kaghaz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+gheichi
+
+
+
+
+
+# name: game_name
+# type: sq_string
+# elements: 1
+# length: 19
+sang_kaghaz_gheichi
+
+
+# name: i
+# type: scalar
+3
+
+
+# name: num_choices
+# type: scalar
+3
+
+
+# name: num_players
+# type: scalar
+2
+
+
